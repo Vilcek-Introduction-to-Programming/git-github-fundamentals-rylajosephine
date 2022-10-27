@@ -1,0 +1,32 @@
+---
+title: "Ryla-Cantergiani-HW.md"
+output: html_document
+---
+
+I am still a little confused about "forks" after doing the homework. If you were to do a fork, and the original owner of the project rejected it, but you felt passionate about the change, is there anything preventing you from just taking their code and continuing it your way? Is it essentially the same rules as with regular data, etc., where we are all just trusting one another to not steal each other's code (or at least to give credit where credit is due).
+
+GitHub is a great way to make projects more collaborative, which is something Wilson et. al stress in their paper. README files can help provide a clear overview of the project, it's original goals, and any relevant information to its creation. Multiple people can work on the project using GitHub, and it will help people from writing over one another like saving files only to individual computers and emailing them back and forth may cause. You can list how you want your project to be cited using GitHub. GitHub also makes contributions to the project clear, and this can even be helpful for future researchers who want to do something similar -- they can contact members of the team that they see worked on the project. R is a great software to use. It's very user friendly (thanks to R Studio!). There are a lot of resources online, and a thriving community to which you can ask questions, share code, or with which you can commiserate when things go terribly wrong. There are lots of datasets available for download to practice with as a tool, and packages other people have designed that can be accessed and used in your own analysis. R also allows for commenting, which makes it easy to tell others (or even yourself) what you were intending to do, how you did it, and any other relevant information you can add to give context to your code.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
