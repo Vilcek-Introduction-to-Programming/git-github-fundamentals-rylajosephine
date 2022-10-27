@@ -95,6 +95,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * Describe one of the ways that Wilson et. al. suggest is a good practice for computational reproducibility and how a tool like R and/or GitHub can be used.
 * Save the file, commit the changes, and push the homework to the GitHub repository for the homework.
 
+HELLO! I have finished this course. I definitely did not understand what "Git" meant or even thought about why it was called "GitHub" before this lesson. 
+
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 * [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
